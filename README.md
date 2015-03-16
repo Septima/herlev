@@ -100,6 +100,7 @@ SELECT count(*),
   FROM tmp.flader
   ) foo
 GROUP BY st_isvalid, geomtype;
+```
 
 Hvilket giver os et andet resultat uden geometrycollections
 
