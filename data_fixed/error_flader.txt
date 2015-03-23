@@ -1,0 +1,4 @@
+ERROR 7: Assertion Failed: Encountered NULL ring in OGRPolygon
+ERROR 3: Failed writing geometry for feature id 1230 in flader_buffer0.tab
+ERROR 7: Assertion Failed: Encountered NULL ring in OGRPolygon
+ERROR 3: Failed writing geometry for feature id 1822 in flader_buffer0.tab
