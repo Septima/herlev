@@ -1,0 +1,2 @@
+ERROR 1: No field definitions found for 'skipfailures', is it a table?
+FAILURE: Couldn't fetch requested layer 'skipfailures'!

@@ -1,0 +1,15 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 3
+    Arbejdssted Char (30) ;
+    ArbejdsstedNr Char (20) Index 1 ;
+    Budgetomraade Char (30) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "ae051410-a428-4887-be96-e462da6a616a"
+end_metadata

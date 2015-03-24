@@ -1,0 +1,19 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 7
+    Element Char (35) Index 1 ;
+    Elementnavn Char (35) ;
+    Underelement Char (30) Index 2 ;
+    VedlNiveau Integer ;
+    Arealtype Char (35) ;
+    Arbejdsstednr Char (35) ;
+    laengde Integer ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "8fa30a55-63b1-4e0f-b3db-4d38a8277b29"
+end_metadata
